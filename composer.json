@@ -1,5 +1,6 @@
 {
     "name": "sdocs/sdocs",
+    "type": "project",
     "description": "Document management",
     "keywords": ["doc","management"],
     "homepage": "https://github.com/sdocs-admin/sdocs",
