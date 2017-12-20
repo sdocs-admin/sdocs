@@ -1,13 +1,19 @@
 {
-    "name": "sDocs",    
-    "description": "Document managment",
-    "keywords": ["Framework", "WebDAV"],
-    "homepage": "https://sdocs.ru/",
-    "license" : "MIT",
+    "name": "sdocs",
+    "type": "library",
+    "description": "Document management",
+    "keywords": ["doc","management"],
+    "homepage": "https://github.com/sdocs-admin/sdocs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viktor Kalashnikov",
+            "email": "j.boggiano@sdocs.ru",
+            "homepage": "http://sdocs.ru",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "sabre/dav" : "*"
-    },
-    "support" : {
-        "source" : "https://github.com/sdocs-admin/sdocs"
+        "sabre/uri": "*"
     }
 }
