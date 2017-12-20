@@ -4,14 +4,6 @@
     "keywords": ["Framework", "WebDAV"],
     "homepage": "https://sdocs.ru/",
     "license" : "MIT",
-    "authors": [
-        {
-            "name": "Viktor Kalashnikov",
-            "email": "support@sdocs.ru",
-            "homepage" : "https://sdocs.ru/",
-            "role" : "Developer"
-        }
-    ],
     "require": {
         "sabre/dav" : "*"
     },
