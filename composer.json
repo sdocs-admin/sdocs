@@ -1,6 +1,5 @@
 {
     "name": "sdocs/sdocs",
-    "type": "library",
     "description": "Document management",
     "keywords": ["doc","management"],
     "homepage": "https://github.com/sdocs-admin/sdocs",
