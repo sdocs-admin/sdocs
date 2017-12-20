@@ -1,5 +1,5 @@
 {
-    "name": "sdocs",
+    "name": "sdocs-admin/sdocs",
     "type": "library",
     "description": "Document management",
     "keywords": ["doc","management"],
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Viktor Kalashnikov",
-            "email": "j.boggiano@sdocs.ru",
+            "email": "support@sdocs.ru",
             "homepage": "http://sdocs.ru",
             "role": "Developer"
         }
