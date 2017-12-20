@@ -1,5 +1,5 @@
 {
-    "name": "sdocs-admin/sdocs",
+    "name": "sdocs/sdocs",
     "type": "library",
     "description": "Document management",
     "keywords": ["doc","management"],
@@ -7,7 +7,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Viktor Kalashnikov",
+            "name": "sDocs Inc.",
             "email": "support@sdocs.ru",
             "homepage": "http://sdocs.ru",
             "role": "Developer"
