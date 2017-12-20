@@ -1,1 +1,21 @@
-
+{
+    "name": "sDocs",    
+    "description": "Document managment",
+    "keywords": ["Framework", "WebDAV"],
+    "homepage": "https://sdocs.ru/",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "sDocs",
+            "email": "support@sdocs.ru",
+            "homepage" : "https://sdocs.ru/",
+            "role" : "Developer"
+        }
+    ],
+    "require": {
+        "sabre/dav" : "*"
+    },
+    "support" : {
+        "source" : "https://github.com/sdocs-admin/sdocs"
+    },
+}
