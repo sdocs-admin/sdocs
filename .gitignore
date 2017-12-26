@@ -1,0 +1,10 @@
+/.git/
+/nbproject/
+/logs/*
+!/logs/README.md
+
+# Composer
+composer.lock
+vendor
+
+

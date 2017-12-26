@@ -15,5 +15,10 @@
     ],
     "require": {
         "sabre/dav": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sDocs\\sDocs\\": "application/"
+        }
     }
 }
