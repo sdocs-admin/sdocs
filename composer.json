@@ -2,14 +2,14 @@
     "name": "sdocs/sdocs",
     "type": "project",
     "description": "Document management",
-    "keywords": ["doc","management"],
+    "keywords": ["document","management", "webdav"],
     "homepage": "https://github.com/sdocs-admin/sdocs",
     "license": "MIT",
     "authors": [
         {
             "name": "sDocs Inc.",
             "email": "support@sdocs.ru",
-            "homepage": "http://sdocs.ru",
+            "homepage": "https://www.sdocs.ru",
             "role": "Developer"
         }
     ],
