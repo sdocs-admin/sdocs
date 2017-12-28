@@ -29,7 +29,5 @@ $lockPlugin = new DAV\Locks\Plugin($lockBackend);
 $server->addPlugin($lockPlugin);
 
 $server->addPlugin(new DAV\Browser\Plugin());
-
 //$server->addPlugin(new DAV\Mount\Plugin());
-
 $server->exec();

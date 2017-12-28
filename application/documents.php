@@ -7,4 +7,3 @@ $folders = array(
    'Заявления' => array('dirname' => 'statement', 'in_archve' => true, 'role' => 'user', 'security' => 'private'),
    'Служебные' => array('dirname' => 'memorandum', 'in_archve' => true, 'role' => 'user', 'security' => 'private'),
 );
-
