@@ -1,6 +1,6 @@
 <?php
 
-$folders = array(
+$documents = array(
    'Входящие' => array('dirname' => 'incomming', 'in_archve' => true, 'role' => 'manager', 'security' => 'public'),
    'Исходящие' => array('dirname' => 'outgoing', 'in_archve' => true, 'role' => 'manager', 'security' => 'public'),
    'Приказы' => array('dirname' => 'order', 'in_archve' => true, 'role' => 'manager', 'security' => 'private'),

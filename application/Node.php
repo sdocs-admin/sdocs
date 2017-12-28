@@ -4,6 +4,7 @@ namespace sDocs\sDocs;
 
 use Sabre\DAV;
 use Sabre\HTTP\URLUtil;
+//sdfsdf
 
 abstract class Node implements DAV\INode {
 
@@ -19,7 +20,7 @@ abstract class Node implements DAV\INode {
     }
 
     function getName() {
-        $this->server->WriteLog("node", $this->path, "getName");
+       // $this->server->WriteLog("node", $this->path, "getName");
         list(, $name) = URLUtil::splitPath($this->path);
         return $name;
     }

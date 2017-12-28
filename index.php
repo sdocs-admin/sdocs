@@ -5,8 +5,10 @@ use sDocs\sDocs;
 
 require 'vendor/autoload.php';
 require 'application/users.php';
+require 'application/documents.php';
 
 $rootDirectory = new sDocs\Directory("webdav");
+//$rootDirectory = new sDocs\Directory("/");
 $server = new sDocs\Server($rootDirectory);
 $server->setBaseUri('/');
 

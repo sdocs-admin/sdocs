@@ -8,7 +8,8 @@ class Server extends DAV\Server {
     public $plugins = [];
 
     function __construct($treeOrNode = null) {
-
+        $this->WriteLog("---------------", "", "");
+        
         parent::__construct($treeOrNode);
 
         if ($treeOrNode != null) {
