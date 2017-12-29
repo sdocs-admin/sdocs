@@ -1,6 +1,7 @@
 <?php
 
 namespace sDocs\sDocs;
+// sdf s
 
 use Sabre\DAV;
 
@@ -9,7 +10,7 @@ class Server extends DAV\Server {
 
     function __construct($treeOrNode = null) {
         $this->WriteLog("---------------", "", "");
-        
+
         parent::__construct($treeOrNode);
 
         if ($treeOrNode != null) {
